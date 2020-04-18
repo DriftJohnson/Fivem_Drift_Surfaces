@@ -9,10 +9,10 @@ This was made for Drift Servers in FiveM, however if you are a racing server, yo
 
 How to use:
 
-1. Download the Resource
-2. Rename the Resource folder
+1. Download and copy the "surface-Master" folder into your "fx-server-data/resources" folder.
+2. Rename the Resource folder to something you will recognise:
    eg. "surface"
-3. Add this to your server.cfg as with any other resource
+3. Add this resource to your server.cfg as you would with any other resource
 4. Start your server
 
 That's it!
